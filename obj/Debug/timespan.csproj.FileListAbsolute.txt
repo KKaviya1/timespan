@@ -1,0 +1,8 @@
+F:\Day - 2\timespan\timespan\bin\Debug\timespan.exe.config
+F:\Day - 2\timespan\timespan\bin\Debug\timespan.exe
+F:\Day - 2\timespan\timespan\bin\Debug\timespan.pdb
+F:\Day - 2\timespan\timespan\obj\Debug\timespan.csproj.AssemblyReference.cache
+F:\Day - 2\timespan\timespan\obj\Debug\timespan.csproj.SuggestedBindingRedirects.cache
+F:\Day - 2\timespan\timespan\obj\Debug\timespan.csproj.CoreCompileInputs.cache
+F:\Day - 2\timespan\timespan\obj\Debug\timespan.exe
+F:\Day - 2\timespan\timespan\obj\Debug\timespan.pdb
